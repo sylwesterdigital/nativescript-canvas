@@ -22,8 +22,10 @@
   
   
   /*
-   I stuck here
+   I stuck here - error
+   
    /Users/misiak/Desktop/2020/apps/nativescript-canvas/vue-canvas/platforms/ios/Pods/CanvasNative/CanvasNative/Source/Canvas.swift: 15: 14: Fatal error: Use of unimplemented initializer 'init(frame:)' for class 'CanvasNative.Canvas'
+   
   */
   
   const canvas = new Canvas();
